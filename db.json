@@ -1,0 +1,88 @@
+{
+    "featured": [
+        {
+            "tittle": "Kingsly instrumentation and communication",
+            "desc": "Digitizers Analyzers, Oscilloscope, Data Recorders, Analyser, Data Loggers, Transient Digitizers, Manufacturers",
+            "icons": "http://www.tidemo.in/scientificinstruments/assets/images/office-building.png",
+            "btn": "Send Enquiry",
+            "category": "Microscope",
+            "sub_category": "Binocular microscope, Stereo microscope,Digital microscope,metallurgical microscope, Projection Microscope",
+            "images": "http://www.tidemo.in/scientificinstruments/assets/images/icon/microscope.png",
+            "fbanner": "http://www.tidemo.in/scientificinstruments/assets/images/banner-right1.jpg",
+            "eqp_name": "Biology Lab Equipment",
+            "eqp_images": "http://www.tidemo.in/scientificinstruments/assets/images/1.png",
+            "eqp_desc": "Biology laboratory equipments consists of devices and tools that are used in different types of research all disciplines science.",
+            "eqp_btn": "Read More.."
+
+        },
+        {
+            "tittle": "Kingsly instrumentation and communication",
+            "desc": "Digitizers Analyzers, Oscilloscope, Data Recorders, Analyser, Data Loggers, Transient Digitizers, Manufacturers",
+            "icons": "http://www.tidemo.in/scientificinstruments/assets/images/office-building.png",
+            "btn": "Send Enquiry",
+            "category": "Laboratory Glassware",
+            "sub_category": "Binocular microscope, Stereo microscope,Digital microscope,metallurgical microscope, Projection Microscope",
+            "images": "http://www.tidemo.in/scientificinstruments/assets/images/icon/erlenmeyer.png",
+            "fbanner": "http://www.tidemo.in/scientificinstruments/assets/images/banner-right2.jpg",
+            "eqp_name": "Physics Lab Equipment",
+            "eqp_images": "http://www.tidemo.in/scientificinstruments/assets/images/2.png",
+            "eqp_desc": "Biology laboratory equipments consists of devices and tools that are used in different types of research all disciplines science.",
+            "eqp_btn": "Read More.."
+        },
+        {
+            "tittle": "Kingsly instrumentation and communication",
+            "desc": "Digitizers Analyzers, Oscilloscope, Data Recorders, Analyser, Data Loggers, Transient Digitizers, Manufacturers",
+            "icons": "http://www.tidemo.in/scientificinstruments/assets/images/office-building.png",
+            "btn": "Send Enquiry",
+            "category": "Laboratory Plasticware",
+            "sub_category": "Binocular microscope, Stereo microscope,Digital microscope,metallurgical microscope, Projection Microscope",
+            "images": "http://www.tidemo.in/scientificinstruments/assets/images/icon/flask.png",
+            "fbanner": "http://www.tidemo.in/scientificinstruments/assets/images/banner-right3.jpg",
+            "eqp_name": "Chemistry Lab Equipment",
+            "eqp_images": "http://www.tidemo.in/scientificinstruments/assets/images/3.png",
+            "eqp_desc": "Biology laboratory equipments consists of devices and tools that are used in different types of research all disciplines science.",
+            "eqp_btn": "Read More.."
+        },
+        {
+            "tittle": "Kingsly instrumentation and communication",
+            "desc": "Digitizers Analyzers, Oscilloscope, Data Recorders, Analyser, Data Loggers, Transient Digitizers, Manufacturers",
+            "icons": "http://www.tidemo.in/scientificinstruments/assets/images/office-building.png",
+            "btn": "Send Enquiry",
+            "category": "Laboratory Porcelainware",
+            "sub_category": "Binocular microscope, Stereo microscope,Digital microscope,metallurgical microscope, Projection Microscope",
+            "images": "http://www.tidemo.in/scientificinstruments/assets/images/icon/bowl.png"
+        },
+        {
+            "tittle": "Kingsly instrumentation and communication",
+            "desc": "Digitizers Analyzers, Oscilloscope, Data Recorders, Analyser, Data Loggers, Transient Digitizers, Manufacturers",
+            "icons": "http://www.tidemo.in/scientificinstruments/assets/images/office-building.png",
+            "btn": "Send Enquiry",
+            "category": "Laboratory Balances Scales",
+            "sub_category": "Binocular microscope, Stereo microscope,Digital microscope,metallurgical microscope, Projection Microscope",
+            "images": "http://www.tidemo.in/scientificinstruments/assets/images/icon/balance.png"
+        },
+        {
+            "tittle": "Kingsly instrumentation and communication",
+            "desc": "Digitizers Analyzers, Oscilloscope, Data Recorders, Analyser, Data Loggers, Transient Digitizers, Manufacturers",
+            "icons": "http://www.tidemo.in/scientificinstruments/assets/images/office-building.png",
+            "btn": "Send Enquiry",
+            "category": "Thermometer & Hyderometer",
+            "sub_category": "Binocular microscope, Stereo microscope,Digital microscope,metallurgical microscope, Projection Microscope",
+            "images": "http://www.tidemo.in/scientificinstruments/assets/images/icon/thermometer.png"
+        },
+        {"tittle": "Kingsly instrumentation and communication",
+            "desc": "Digitizers Analyzers, Oscilloscope, Data Recorders, Analyser, Data Loggers, Transient Digitizers, Manufacturers",
+            "icons": "http://www.tidemo.in/scientificinstruments/assets/images/office-building.png",
+            "category": "Models, Charts & Globes",
+            "sub_category": "Binocular microscope, Stereo microscope,Digital microscope,metallurgical microscope, Projection Microscope",
+            "images": "http://www.tidemo.in/scientificinstruments/assets/images/icon/management.png"
+        },
+        {"tittle": "Kingsly instrumentation and communication",
+            "desc": "Digitizers Analyzers, Oscilloscope, Data Recorders, Analyser, Data Loggers, Transient Digitizers, Manufacturers",
+            "icons": "http://www.tidemo.in/scientificinstruments/assets/images/office-building.png",
+            "category": "Optical Instruments",
+            "sub_category": "Binocular microscope, Stereo microscope,Digital microscope,metallurgical microscope, Projection Microscope",
+            "images": "http://www.tidemo.in/scientificinstruments/assets/images/icon/ophthalmoscope.png"
+        }
+    ]
+}
